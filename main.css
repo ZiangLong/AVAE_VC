@@ -7,3 +7,13 @@
 p {
   font-size: 1.5em;
 }
+
+tt {
+  font-size: 2em;
+  font-weight: 500;
+}
+
+audio { 
+  width: 200px; 
+  display: block; 
+}
